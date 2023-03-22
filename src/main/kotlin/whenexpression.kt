@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    var ch='e'
+    var ch='m'
 
     when(ch){
         'A'-> println("A is A vowel")

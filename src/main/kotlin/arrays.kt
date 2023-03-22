@@ -5,4 +5,5 @@ fun main(args: Array<String>) {
     println("My name is : "+myarr[2])
     println("The size of the array is :"+myarr2.size)
     println("My sorted array is :"+myarr2)
+    emobilis()
 }
